@@ -1,15 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# voice-agent-studio — Zion App Network
 
-**voice-agent-studio** is part of the Zion Tech Group app network (630+ apps).
+Zion Voice Agent Studio — AI voice agents for calls & IVR.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [AI Agents & Orchestration](https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-orchestration.md)
+- Live app: https://ziontechgroup.com/voice-agent-studio/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [zion-ai-voice-assistant](https://github.com/Zion-support/zion-ai-voice-assistant) — voice assistant
-- [zion-ai-call-analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights
-- [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) — speech-to-text
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+## Related apps (AI Agents & LLM Tooling)
+- [zion-ai-voice-assistant](https://voice-assistant.ziontechgroup.com) — AI voice assistant
+- [zion-ai-chatbot-builder](https://chatbot-builder.ziontechgroup.com) — AI chatbot builder
+- [zion-ai-help-desk](https://help-desk.ziontechgroup.com) — AI help desk
+- [llm-gateway](https://ziontechgroup.com/llm-gateway/) — smart model routing
+- [ai-audio-transcriber](https://ai-audio-transcriber.ziontechgroup.com) — speech-to-text with diarization
+- [zion-ai-sales-call-analyst](https://ziontechgroup.com/zion-ai-sales-call-analyst) — sales call analysis
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
