@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 770+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/voice-agent-studio/
-- 🔗 Related: [Zion AI Voice Assistant](https://ziontechgroup.com/zion-ai-voice-assistant/) · [AI Audio Transcriber](https://ziontechgroup.com/ai-audio-transcriber/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Voice Translator](https://ziontechgroup.com/zion-ai-voice-translator/) · [Zion AI Call Analytics](https://ziontechgroup.com/zion-ai-call-analytics/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
